@@ -1,0 +1,1 @@
+Educational project starter. You may modify this code for your college project. External image URLs and fonts remain subject to their providers' terms.
